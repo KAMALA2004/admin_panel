@@ -26,3 +26,4 @@ feedparser
 beautifulsoup4
 firebase_admin
 plotly
+agno
